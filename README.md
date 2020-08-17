@@ -1,2 +1,4 @@
-# SkillFactory.Test
-Test for SkillFactory
+# Тестовое задание для SkillFactory
+
+* [Методический материал](/SelectionStatements)
+* [Практические задания](/SelectionStatementsHomework)
