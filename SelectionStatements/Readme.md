@@ -125,7 +125,7 @@ else if (isWindy)
 }
 else
 {
-    Console.WriteLine("There is beautiful weather. Just go by that!")
+    Console.WriteLine("There is beautiful weather. Just go by that!");
 }
 ```
 В данном примере мы проверям, жарко ли на улице, и если это не так - проверяем, дует ли ветер. Поскольку на улице не жарко, мы попадаем в ветку проверки второго условия,
@@ -206,7 +206,7 @@ switch (type)
   case IceCreamType.Small:
       price += 25;
       return price;
-  case IseCreamType.Large:
+  case IceCreamType.Large:
       price += 30;
       goto case IceCreamType.Medium;
 }
